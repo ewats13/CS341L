@@ -1,4 +1,4 @@
-CACHE LAB
+#CACHE LAB
 
 This assignment required us to write a Cache Simulator from scratch (csim.c) along with a matrix transpose function (trans.c) that is optimized for cache performance.
 The overview and requirements of this assignment are specified in the PDF "CacheLab_INFO"
@@ -8,8 +8,9 @@ Running the autograders:
 ************************
 
 Before running the autograders, compile your code:
-    linux> make
-
+```
+linux> make
+```
 Check the correctness of your simulator:
     linux> ./test-csim
 
