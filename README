@@ -8,9 +8,8 @@ Running the autograders:
 ************************
 
 Before running the autograders, compile your code:
-```
 linux> make
-```
+
 Check the correctness of your simulator:
     linux> ./test-csim
 
